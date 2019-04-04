@@ -1,0 +1,5 @@
+commit e477dc55c07b5e7b8838b94972151a8b7aa7f783 (HEAD -> logs, origin/master, master)
+Author: unknown <dojchinovski.dimitar@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:26:10 2019 +0200
+
+    Initial commit
